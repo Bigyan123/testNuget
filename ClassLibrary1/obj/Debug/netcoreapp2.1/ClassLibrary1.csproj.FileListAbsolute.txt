@@ -1,0 +1,9 @@
+C:\Users\bingyan.sahoo\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.deps.json
+C:\Users\bingyan.sahoo\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Users\bingyan.sahoo\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+C:\Users\bingyan.sahoo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\bingyan.sahoo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\bingyan.sahoo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\bingyan.sahoo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\bingyan.sahoo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Users\bingyan.sahoo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.pdb
